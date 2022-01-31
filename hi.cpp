@@ -16,7 +16,7 @@ int main(int argc,char *argv[])
         cout << "Average of " << argc-1 <<  " numbers = " << average << endl ;
         cout << "---------------------------------" ;
     }
-    
+    cout << "-------------------------------------" ;
     
     return 0;
 }
